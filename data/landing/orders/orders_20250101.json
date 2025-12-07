@@ -1,0 +1,12 @@
+[
+  {
+    "order_id": "O001",
+    "order_timestamp": "2025-01-01T10:00:00",
+    "customer_id": "C001",
+    "product_id": "P001",
+    "quantity": 1,
+    "total_amount": 499,
+    "currency": "USD",
+    "status": "PAID"
+  }
+]
